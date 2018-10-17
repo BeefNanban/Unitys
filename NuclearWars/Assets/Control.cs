@@ -43,7 +43,7 @@ public class Control : MonoBehaviour {
             {
                 animator.SetFloat("Speed", 0f);
             }
-            if (canDropBombs && Input.GetKeyDown("joystick button 0"))
+            if (canDropBombs && Input.GetKeyDown("z"))
             { 
                 SetBomb();
             }
