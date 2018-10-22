@@ -317,6 +317,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Bomb.cs" />
+    <Compile Include="Assets\Broken.cs" />
     <Compile Include="Assets\Control.cs" />
     <Compile Include="Assets\Controlenemy.cs" />
     <Compile Include="Assets\Controller Tester\Scripts\DetectUnknownControllerMappings.cs" />
@@ -340,6 +341,7 @@
     <Compile Include="Assets\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
     <Compile Include="Assets\PlayerCamera.cs" />
     <Compile Include="Assets\PlayerCon.cs" />
+    <Compile Include="Assets\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
     <Compile Include="Assets\Scripts\DestroySelf.cs" />
     <Compile Include="Assets\Scripts\DisableTriggerOnPlayerExit.cs" />
     <Compile Include="Assets\Scripts\GlobalStateManager.cs" />
@@ -349,6 +351,9 @@
     <None Include="Assets\DynamicBone\ReadMe.txt" />
     <None Include="Assets\EffectExamples\Editor\PackageManagerAssembly\PackageImportList.txt" />
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM2.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM3.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\shader info.txt" />
     <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
