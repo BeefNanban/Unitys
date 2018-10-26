@@ -33,6 +33,11 @@ public class Bomb : MonoBehaviour {
             {
                 Destroy(gameObject);
             }
+           else if(hit.collider.tag == "Enemy")
+            {
+                Destroy(gameObject);
+            }
+     
         }
 
         Destroy(gameObject, 0.3f);

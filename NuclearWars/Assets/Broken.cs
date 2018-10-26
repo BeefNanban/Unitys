@@ -15,4 +15,12 @@ public class Broken : MonoBehaviour {
 	void Update () {
 		
 	}
+    public void OnTriggerEnter(Collider collision)
+    {
+        if (collision.gameObject.tag == "Explosion")
+        {
+
+            Destroy(this.gameObject);
+        }
+    }
 }

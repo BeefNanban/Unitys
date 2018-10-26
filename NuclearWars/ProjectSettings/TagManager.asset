@@ -7,6 +7,7 @@ TagManager:
   - Block
   - Enemy
   - Explosion
+  - Rock
   layers:
   - Default
   - TransparentFX
